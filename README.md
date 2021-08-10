@@ -9,6 +9,9 @@
 3. FindWithTags를 이용한 태그 기반의 객체 탐색
 4. SendMessage, GetComponent를 이용한 객체 메소드 호출
 
+## 실행 결과
+![image](https://user-images.githubusercontent.com/46051622/128885207-d00a01ff-526b-41f7-b0c1-7e728f75622a.png)
+
 ## 불편한 점
 C# 스크립트 에디터로 vs2019를 사용하였으나 메소드, 멤버변수의 자동 탐색이 되지 않는 점이 불편 (해결 방안 찾아봐야 함!)
 
