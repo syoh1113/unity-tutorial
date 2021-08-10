@@ -14,3 +14,4 @@ C# 스크립트 에디터로 vs2019를 사용하였으나 메소드, 멤버변�
 
 ## 참고
 해당 프로그램은 https://www.youtube.com/watch?v=ZJoLGOhAKKI 강좌를 참고하여 따라 만든 프로그램 코드입니다.
+Unity Git 추가를 위해서는 https://unity3dstudy.com/2020/05/08/UnityProject_Git_Repository_Connection/ 게시판을 참고하였습니다.
