@@ -13,5 +13,5 @@
 C# 스크립트 에디터로 vs2019를 사용하였으나 메소드, 멤버변수의 자동 탐색이 되지 않는 점이 불편 (해결 방안 찾아봐야 함!)
 
 ## 참고
-해당 프로그램은 https://www.youtube.com/watch?v=ZJoLGOhAKKI 강좌를 참고하여 따라 만든 프로그램 코드입니다.
-Unity Git 추가를 위해서는 https://unity3dstudy.com/2020/05/08/UnityProject_Git_Repository_Connection/ 게시판을 참고하였습니다.
+- 참고 강좌: https://www.youtube.com/watch?v=ZJoLGOhAKKI
+- Unity Git 추가: https://unity3dstudy.com/2020/05/08/UnityProject_Git_Repository_Connection/
