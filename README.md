@@ -13,3 +13,12 @@
             <li>SendMessage, GetComponent를 이용한 객체 메소드 호출</li>
           </ol>
       </details>
+2. 3D 코인 수집 게임
+      <details>
+          <summary>요약</summary>
+          유튜브 강의 영상을 따라하며 제작한 3D 코인 수집 게임입니다.
+          <ul>
+            <li>결과: https://youtu.be/kEcmLFDHSUg</li>
+            <li>참고: https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2&index=14</li>
+          </ul>
+      </details>
