@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - cubeTag
+  - coinTag
+  - floorTag
+  - playerTag
+  - finishTag
+  - managerTag
   layers:
   - Default
   - TransparentFX
