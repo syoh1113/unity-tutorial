@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/coinEating.unity
     guid: 5072a9533b57ebc4f9e4e363399e0fb4
   - enabled: 0
-    path: Assets/Scenes/codeEating_1.unity
-    guid: a286d3b91aa4d224191657cb1471ac3a
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/coinEating_1.unity
     guid: 2dc98e14a93ff654bad2f2584d3495b7
   m_configObjects: {}
