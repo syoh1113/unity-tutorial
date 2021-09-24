@@ -22,3 +22,12 @@
             <li>참고: https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2&index=14</li>
           </ul>
       </details>
+3. 쿼터뷰 기반 캐릭 이동 게임 (관련 브랜치명: 3D-QuaterView-CharacterMoving)
+      <details>
+          <summary>요약</summary>
+          유튜브 강의 영상을 따라하며 제작한 쿼터뷰 기반 캐릭 이동 게임입니다.
+          <ul>
+            <li><img src="https://user-images.githubusercontent.com/46051622/134619950-be15fa42-268c-42ad-be32-c8a7e594d6a4.png"/></li>
+            <li>참고: https://www.youtube.com/watch?v=eZ8Dm809j4c</li>
+          </ul>
+      </details>
